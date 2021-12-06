@@ -1,0 +1,13 @@
+Termination of keyloggers [Anti-keylogger ]
+Code :
+--------------------------------------------
+import os
+#in the operating sysytem of our computer we are able to detect and terminate the file 
+
+import time
+var = os.system("C:/Users/rithw/Desktop.py/keyloggers.py")
+#after giving the file location and the taskfill to delete the file 
+import ctypes 
+# An included library with Python install.
+#to delete the file and display a meesage of termination of the file 
+ctypes.windll.user32.MessageBoxW(0, "Keylogger has been terminated", "Keylogger", 1)

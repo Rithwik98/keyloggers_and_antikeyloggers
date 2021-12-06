@@ -1,0 +1,19 @@
+Open the client-server folder.
+
+The JAR,BAT files,are been devoloped by us to implement the key loggers in our system.
+
+to implement it,open the folder directory in command prompt, run the server.bat 
+
+after it, open new window in command prompt in same directory and run the client.bat
+
+after imediately running the client.bat the keloggers will activate and take the inputs what we have typed 
+stored in the ServerOutputfile.txt continuosly in the same directory .
+
+The detection of key loggers will imediately stop after closing or terminating the client command module. 
+
+======================================================================================================
+The codes used in implementing keyloggers mentioned below in the folder.
+
+======================================================================================================
+
+

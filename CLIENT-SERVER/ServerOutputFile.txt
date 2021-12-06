@@ -1,0 +1,1273 @@
+Mouse Moved to: 857, 462
+Mouse Moved to: 859, 457
+Mouse Moved to: 863, 449
+Mouse Moved to: 869, 440
+Mouse Moved to: 873, 432
+Mouse Moved to: 875, 428
+Mouse Moved to: 877, 425
+Mouse Moved to: 878, 423
+Mouse Moved to: 880, 422
+Mouse Moved to: 881, 421
+Mouse Moved to: 881, 419
+Mouse Moved to: 883, 419
+Mouse Moved to: 883, 418
+Mouse Moved to: 886, 415
+Mouse Moved to: 889, 413
+Mouse Moved to: 893, 409
+Mouse Moved to: 896, 408
+Mouse Moved to: 898, 406
+Mouse Moved to: 901, 406
+Mouse Moved to: 902, 405
+Mouse Moved to: 903, 405
+Mouse Moved to: 905, 405
+Mouse Moved to: 905, 403
+Mouse Moved to: 906, 403
+Mouse Moved to: 908, 403
+Mouse Moved to: 909, 403
+Mouse Moved to: 911, 403
+Mouse Moved to: 912, 403
+Mouse Moved to: 913, 404
+Mouse Moved to: 915, 405
+Mouse Moved to: 916, 407
+Mouse Moved to: 916, 408
+Mouse Moved to: 918, 408
+Mouse Moved to: 918, 409
+Mouse Moved to: 918, 411
+Mouse Moved to: 918, 412
+Mouse Moved to: 917, 412
+Mouse Moved to: 916, 412
+Mouse Moved to: 914, 414
+Mouse Moved to: 911, 414
+Mouse Moved to: 910, 414
+Mouse Moved to: 909, 415
+Mouse Moved to: 906, 415
+Mouse Moved to: 904, 415
+Mouse Moved to: 903, 415
+Mouse Moved to: 901, 415
+Mouse Moved to: 898, 415
+Mouse Moved to: 897, 415
+Mouse Moved to: 895, 415
+Mouse Moved to: 894, 415
+Mouse Moved to: 893, 415
+Mouse Moved to: 890, 415
+Mouse Moved to: 888, 415
+Mouse Moved to: 888, 415
+Mouse Moved to: 887, 415
+Mouse Moved to: 885, 415
+Mouse Moved to: 884, 413
+Mouse Moved to: 882, 413
+Mouse Moved to: 881, 412
+Mouse Moved to: 880, 412
+Mouse Moved to: 878, 410
+Mouse Moved to: 877, 410
+Mouse Moved to: 877, 409
+Mouse Moved to: 877, 408
+Mouse Moved to: 879, 406
+Mouse Moved to: 880, 405
+Mouse Moved to: 880, 403
+Mouse Moved to: 881, 402
+Mouse Moved to: 883, 400
+Mouse Moved to: 883, 399
+Mouse Moved to: 884, 399
+Mouse Moved to: 884, 398
+Mouse Moved to: 886, 398
+Mouse Moved to: 886, 396
+Mouse Moved to: 886, 395
+Mouse Moved to: 886, 393
+Mouse Moved to: 887, 393
+Mouse Moved to: 887, 392
+Mouse Moved to: 889, 391
+Mouse Moved to: 893, 389
+Mouse Moved to: 897, 387
+Mouse Moved to: 902, 383
+Mouse Moved to: 906, 382
+Mouse Moved to: 909, 380
+Mouse Moved to: 911, 379
+Mouse Moved to: 914, 377
+Mouse Moved to: 915, 376
+Mouse Moved to: 917, 374
+Mouse Moved to: 918, 374
+Mouse Moved to: 919, 373
+Mouse Moved to: 921, 371
+Mouse Moved to: 922, 370
+Mouse Moved to: 924, 370
+Mouse Moved to: 925, 369
+Mouse Moved to: 925, 367
+Mouse Moved to: 927, 367
+Mouse Moved to: 927, 366
+Mouse Moved to: 927, 363
+Mouse Moved to: 927, 357
+Mouse Moved to: 927, 354
+Mouse Moved to: 927, 353
+Mouse Moved to: 927, 351
+Mouse Moved to: 927, 350
+Mouse Moved to: 927, 348
+Mouse Moved to: 927, 347
+Mouse Moved to: 927, 346
+Pressed: D
+Released: D
+Pressed: S
+Released: S
+Pressed: D
+Pressed: S
+Pressed: H
+Pressed: F
+Released: S
+Released: D
+Pressed: B
+Released: F
+Released: B
+Pressed: J
+Released: H
+Released: J
+Pressed: B
+Released: B
+Pressed: B
+Released: B
+Mouse Moved to: 926, 346
+Mouse Moved to: 921, 349
+Mouse Moved to: 910, 358
+Mouse Moved to: 901, 367
+Mouse Moved to: 889, 377
+Mouse Moved to: 880, 386
+Mouse Moved to: 874, 392
+Mouse Moved to: 869, 397
+Mouse Moved to: 863, 403
+Mouse Moved to: 857, 409
+Mouse Moved to: 839, 422
+Mouse Moved to: 817, 435
+Mouse Moved to: 789, 449
+Mouse Moved to: 758, 467
+Mouse Moved to: 730, 478
+Mouse Moved to: 703, 486
+Mouse Moved to: 676, 491
+Mouse Moved to: 649, 497
+Mouse Moved to: 618, 502
+Mouse Moved to: 588, 505
+Mouse Moved to: 552, 505
+Mouse Moved to: 516, 505
+Mouse Moved to: 483, 505
+Mouse Moved to: 452, 503
+Mouse Moved to: 425, 498
+Mouse Moved to: 405, 493
+Mouse Moved to: 394, 490
+Mouse Moved to: 390, 489
+Mouse Moved to: 387, 489
+Mouse Moved to: 386, 489
+Mouse Moved to: 384, 487
+Mouse Moved to: 385, 486
+Mouse Moved to: 388, 484
+Mouse Moved to: 391, 484
+Mouse Moved to: 394, 483
+Mouse Moved to: 400, 481
+Mouse Moved to: 405, 481
+Mouse Moved to: 408, 481
+Mouse Moved to: 412, 479
+Mouse Moved to: 415, 479
+Mouse Moved to: 418, 479
+Mouse Moved to: 422, 479
+Mouse Moved to: 425, 479
+Mouse Moved to: 426, 479
+Mouse Moved to: 429, 479
+Mouse Moved to: 433, 480
+Mouse Moved to: 434, 480
+Mouse Moved to: 435, 480
+Mouse Moved to: 437, 480
+Mouse Moved to: 438, 480
+Mouse Moved to: 440, 480
+Mouse Moved to: 441, 480
+Mouse Moved to: 443, 480
+Pressed: 1
+Released: 1
+Mouse Moved to: 444, 480
+Mouse Moved to: 445, 479
+Mouse Moved to: 449, 478
+Mouse Moved to: 452, 478
+Mouse Moved to: 453, 476
+Mouse Moved to: 455, 476
+Mouse Moved to: 455, 475
+Mouse Moved to: 456, 475
+Mouse Moved to: 457, 475
+Mouse Moved to: 457, 474
+Mouse Moved to: 459, 474
+Mouse Moved to: 462, 472
+Mouse Moved to: 475, 470
+Mouse Moved to: 505, 467
+Mouse Moved to: 563, 457
+Mouse Moved to: 675, 438
+Mouse Moved to: 813, 423
+Mouse Moved to: 957, 413
+Mouse Moved to: 1087, 404
+Mouse Moved to: 1197, 399
+Mouse Moved to: 1306, 395
+Mouse Moved to: 1396, 390
+Mouse Moved to: 1451, 390
+Mouse Moved to: 1484, 388
+Mouse Moved to: 1511, 382
+Mouse Moved to: 1531, 380
+Mouse Moved to: 1546, 375
+Mouse Pressed
+Mouse Released
+Mouse Moved to: 1545, 375
+Mouse Moved to: 1539, 377
+Mouse Moved to: 1515, 382
+Mouse Moved to: 1467, 389
+Mouse Moved to: 1377, 397
+Mouse Moved to: 1261, 402
+Mouse Moved to: 1056, 398
+Mouse Moved to: 905, 374
+Mouse Moved to: 859, 364
+Mouse Moved to: 814, 358
+Mouse Moved to: 769, 352
+Mouse Moved to: 736, 346
+Mouse Moved to: 709, 343
+Mouse Moved to: 695, 341
+Mouse Moved to: 689, 341
+Mouse Moved to: 686, 341
+Mouse Moved to: 685, 341
+Mouse Moved to: 683, 341
+Mouse Moved to: 680, 339
+Mouse Moved to: 670, 337
+Mouse Moved to: 652, 330
+Mouse Moved to: 628, 322
+Mouse Moved to: 601, 313
+Mouse Moved to: 573, 305
+Mouse Moved to: 546, 300
+Mouse Moved to: 514, 290
+Mouse Moved to: 509, 288
+Mouse Moved to: 506, 288
+Mouse Moved to: 502, 286
+Mouse Moved to: 501, 286
+Mouse Moved to: 499, 286
+Mouse Moved to: 498, 286
+Mouse Moved to: 497, 286
+Mouse Moved to: 497, 285
+Mouse Moved to: 497, 285
+Mouse Moved to: 502, 283
+Mouse Moved to: 512, 283
+Mouse Moved to: 529, 283
+Mouse Moved to: 545, 283
+Mouse Moved to: 559, 283
+Mouse Moved to: 570, 284
+Mouse Moved to: 575, 284
+Mouse Moved to: 581, 284
+Mouse Moved to: 582, 284
+Mouse Moved to: 583, 286
+Mouse Moved to: 585, 286
+Mouse Moved to: 586, 286
+Mouse Moved to: 588, 287
+Mouse Moved to: 589, 287
+Mouse Moved to: 589, 289
+Mouse Moved to: 589, 290
+Mouse Moved to: 589, 291
+Mouse Moved to: 589, 293
+Mouse Moved to: 589, 294
+Mouse Moved to: 589, 296
+Mouse Moved to: 587, 297
+Mouse Moved to: 586, 299
+Mouse Moved to: 583, 300
+Mouse Moved to: 581, 304
+Mouse Moved to: 578, 305
+Mouse Moved to: 574, 309
+Mouse Moved to: 570, 312
+Mouse Moved to: 567, 316
+Mouse Moved to: 563, 319
+Mouse Moved to: 558, 321
+Mouse Moved to: 554, 327
+Mouse Moved to: 551, 329
+Mouse Moved to: 545, 334
+Mouse Moved to: 541, 338
+Mouse Moved to: 538, 344
+Mouse Moved to: 534, 347
+Mouse Moved to: 530, 353
+Mouse Moved to: 527, 356
+Mouse Moved to: 523, 362
+Mouse Moved to: 519, 365
+Mouse Moved to: 518, 367
+Mouse Moved to: 518, 368
+Mouse Moved to: 516, 371
+Mouse Moved to: 515, 373
+Mouse Moved to: 515, 374
+Mouse Moved to: 515, 376
+Mouse Moved to: 514, 377
+Mouse Moved to: 514, 379
+Mouse Moved to: 514, 380
+Mouse Moved to: 514, 381
+Mouse Moved to: 514, 381
+Mouse Moved to: 519, 374
+Mouse Moved to: 532, 358
+Mouse Moved to: 548, 343
+Mouse Moved to: 557, 334
+Mouse Moved to: 569, 324
+Mouse Moved to: 576, 317
+Mouse Moved to: 577, 316
+Mouse Moved to: 579, 314
+Mouse Moved to: 580, 314
+Mouse Moved to: 582, 313
+Mouse Moved to: 583, 313
+Mouse Pressed
+Mouse Released
+Mouse Moved to: 578, 315
+Mouse Moved to: 572, 317
+Mouse Moved to: 564, 321
+Mouse Moved to: 559, 323
+Mouse Moved to: 551, 325
+Mouse Moved to: 546, 327
+Mouse Moved to: 540, 328
+Mouse Moved to: 535, 328
+Mouse Moved to: 531, 330
+Mouse Moved to: 530, 330
+Mouse Moved to: 528, 332
+Mouse Moved to: 527, 332
+Mouse Moved to: 526, 332
+Mouse Moved to: 526, 333
+Mouse Moved to: 524, 333
+Mouse Moved to: 523, 333
+Mouse Moved to: 523, 334
+Mouse Moved to: 523, 337
+Mouse Moved to: 523, 341
+Mouse Moved to: 523, 342
+Mouse Moved to: 523, 344
+Mouse Pressed
+Mouse Released
+Mouse Pressed
+Mouse Released
+Mouse Moved to: 542, 352
+Mouse Moved to: 570, 363
+Mouse Moved to: 610, 378
+Mouse Moved to: 666, 397
+Mouse Moved to: 709, 413
+Mouse Moved to: 739, 422
+Mouse Moved to: 763, 430
+Mouse Moved to: 778, 434
+Mouse Moved to: 783, 436
+Mouse Moved to: 787, 438
+Mouse Moved to: 790, 440
+Mouse Moved to: 792, 440
+Mouse Moved to: 793, 440
+Mouse Moved to: 794, 441
+Mouse Moved to: 796, 441
+Mouse Moved to: 796, 442
+Mouse Moved to: 797, 444
+Mouse Moved to: 797, 443
+Mouse Moved to: 801, 439
+Mouse Moved to: 805, 431
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Moved to: 804, 431
+Mouse Moved to: 799, 433
+Mouse Moved to: 783, 442
+Mouse Moved to: 759, 453
+Mouse Moved to: 731, 467
+Mouse Moved to: 695, 482
+Mouse Moved to: 658, 497
+Mouse Moved to: 625, 505
+Mouse Moved to: 597, 514
+Mouse Moved to: 580, 521
+Mouse Moved to: 562, 526
+Mouse Moved to: 551, 528
+Mouse Moved to: 540, 531
+Mouse Moved to: 535, 532
+Mouse Moved to: 529, 532
+Mouse Moved to: 526, 534
+Mouse Moved to: 525, 534
+Mouse Moved to: 523, 534
+Mouse Moved to: 522, 534
+Mouse Moved to: 522, 536
+Mouse Moved to: 520, 536
+Mouse Moved to: 520, 537
+Mouse Moved to: 519, 538
+Mouse Moved to: 519, 540
+Mouse Moved to: 519, 541
+Mouse Moved to: 519, 543
+Mouse Moved to: 519, 544
+Mouse Moved to: 519, 546
+Mouse Moved to: 519, 547
+Mouse Moved to: 519, 548
+Mouse Moved to: 519, 550
+Mouse Moved to: 519, 551
+Mouse Moved to: 519, 553
+Mouse Moved to: 519, 553
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Moved to: 519, 554
+Mouse Moved to: 516, 554
+Mouse Moved to: 508, 556
+Mouse Moved to: 494, 558
+Mouse Moved to: 480, 561
+Mouse Moved to: 466, 563
+Mouse Moved to: 449, 563
+Mouse Moved to: 436, 563
+Mouse Moved to: 426, 563
+Mouse Moved to: 420, 563
+Mouse Moved to: 415, 563
+Mouse Moved to: 412, 563
+Mouse Moved to: 410, 563
+Mouse Moved to: 409, 563
+Mouse Moved to: 407, 563
+Mouse Moved to: 406, 563
+Mouse Moved to: 405, 563
+Mouse Moved to: 403, 563
+Mouse Moved to: 402, 563
+Mouse Moved to: 402, 563
+Mouse Moved to: 402, 561
+Mouse Moved to: 402, 560
+Mouse Moved to: 404, 560
+Mouse Moved to: 405, 558
+Mouse Moved to: 406, 557
+Mouse Moved to: 409, 557
+Mouse Moved to: 411, 555
+Mouse Moved to: 412, 554
+Mouse Moved to: 414, 554
+Mouse Moved to: 415, 553
+Mouse Moved to: 418, 553
+Mouse Pressed
+Mouse Released
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Moved to: 422, 555
+Mouse Moved to: 431, 569
+Mouse Moved to: 450, 594
+Mouse Moved to: 485, 625
+Mouse Moved to: 541, 669
+Mouse Moved to: 602, 710
+Mouse Moved to: 687, 750
+Mouse Moved to: 764, 780
+Mouse Moved to: 819, 799
+Mouse Moved to: 855, 810
+Mouse Moved to: 875, 816
+Mouse Moved to: 886, 818
+Mouse Moved to: 889, 818
+Mouse Moved to: 893, 819
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 2
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 2
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 2
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Moved to: 894, 819
+Mouse Moved to: 899, 815
+Mouse Moved to: 917, 805
+Mouse Moved to: 939, 792
+Mouse Moved to: 960, 781
+Mouse Moved to: 984, 773
+Mouse Moved to: 1008, 765
+Mouse Moved to: 1039, 759
+Mouse Moved to: 1072, 757
+Mouse Moved to: 1105, 754
+Mouse Moved to: 1142, 751
+Mouse Moved to: 1175, 751
+Mouse Moved to: 1202, 753
+Mouse Moved to: 1222, 755
+Mouse Moved to: 1232, 755
+Mouse Moved to: 1238, 757
+Mouse Moved to: 1241, 757
+Mouse Moved to: 1243, 757
+Mouse Moved to: 1244, 760
+Mouse Moved to: 1251, 776
+Mouse Moved to: 1262, 801
+Mouse Moved to: 1273, 831
+Mouse Moved to: 1284, 862
+Mouse Moved to: 1295, 883
+Mouse Moved to: 1303, 907
+Mouse Moved to: 1310, 933
+Mouse Moved to: 1312, 938
+Mouse Moved to: 1313, 944
+Mouse Moved to: 1313, 947
+Mouse Moved to: 1313, 950
+Mouse Moved to: 1315, 952
+Mouse Moved to: 1315, 953
+Mouse Moved to: 1315, 954
+Mouse Moved to: 1315, 956
+Mouse Moved to: 1311, 954
+Mouse Moved to: 1300, 942
+Mouse Moved to: 1277, 917
+Mouse Moved to: 1245, 878
+Mouse Moved to: 1206, 823
+Mouse Moved to: 1157, 766
+Mouse Moved to: 1117, 711
+Mouse Moved to: 1094, 681
+Mouse Moved to: 1077, 660
+Mouse Moved to: 1067, 645
+Mouse Moved to: 1057, 630
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -2
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -5
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -6
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -2
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -2
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: 0
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -14
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -13
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -10
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -7
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -5
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -3
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -1
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -8
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -13
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -12
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -14
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -9
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -6
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Wheel Moved: -4
+Scroll Amount: 7
+Wheel Direction: 3
+Mouse Moved to: 1058, 628
+Mouse Moved to: 1066, 616
+Mouse Moved to: 1085, 594
+Mouse Moved to: 1120, 559
+Mouse Moved to: 1177, 510
+Mouse Moved to: 1233, 466
+Mouse Moved to: 1283, 424
+Mouse Moved to: 1361, 366
+Mouse Moved to: 1395, 345
+Mouse Moved to: 1420, 323
+Mouse Moved to: 1442, 306
+Mouse Moved to: 1460, 290
+Mouse Moved to: 1476, 275
+Mouse Moved to: 1491, 259
+Mouse Moved to: 1503, 247
+Mouse Moved to: 1513, 238
+Mouse Moved to: 1519, 229
+Mouse Moved to: 1525, 223
+Mouse Moved to: 1528, 220
+Mouse Moved to: 1530, 216
+Mouse Moved to: 1532, 213
+Mouse Moved to: 1535, 209
+Mouse Moved to: 1536, 207
+Mouse Moved to: 1538, 206
+Mouse Moved to: 1539, 204
+Mouse Moved to: 1541, 201
+Mouse Moved to: 1542, 200
+Mouse Moved to: 1543, 198
+Mouse Moved to: 1545, 197
+Mouse Moved to: 1546, 195
+Mouse Moved to: 1548, 194
+Mouse Moved to: 1549, 194
+Mouse Moved to: 1549, 193
+Mouse Moved to: 1551, 193
+Mouse Moved to: 1552, 193
+Mouse Moved to: 1553, 193
+Mouse Moved to: 1555, 193
+Mouse Moved to: 1555, 193
+Mouse Moved to: 1555, 194
+Mouse Moved to: 1556, 196
+Mouse Moved to: 1556, 199
+Mouse Moved to: 1556, 202
+Mouse Moved to: 1556, 205
+Mouse Moved to: 1556, 208
+Mouse Moved to: 1556, 210
+Mouse Moved to: 1556, 213
+Mouse Moved to: 1556, 217
+Mouse Moved to: 1556, 219
+Mouse Moved to: 1556, 220
+Mouse Moved to: 1556, 222
+Mouse Moved to: 1556, 223
+Mouse Moved to: 1556, 225
+Mouse Moved to: 1556, 226
+Mouse Moved to: 1556, 227
+Mouse Pressed
+Mouse Released
+Mouse Moved to: 1549, 307
+Mouse Moved to: 1525, 513
+Mouse Moved to: 1522, 550
+Mouse Moved to: 1514, 637
+Mouse Moved to: 1503, 751
+Mouse Moved to: 1501, 781
+Mouse Moved to: 1501, 807
+Mouse Moved to: 1501, 834
+Mouse Moved to: 1501, 857
+Mouse Moved to: 1501, 880
+Mouse Moved to: 1501, 894
+Mouse Moved to: 1501, 901
+Mouse Moved to: 1501, 911
+Mouse Moved to: 1501, 917
+Mouse Moved to: 1501, 927
+Mouse Moved to: 1501, 934
+Mouse Moved to: 1501, 944
+Mouse Moved to: 1501, 958
+Mouse Moved to: 1502, 969
+Mouse Moved to: 1502, 985
+Mouse Moved to: 1502, 999
+Mouse Moved to: 1504, 1007
+Mouse Moved to: 1504, 1014
+Mouse Moved to: 1504, 1019
+Mouse Moved to: 1504, 1023
+Mouse Moved to: 1504, 1026
+Mouse Moved to: 1504, 1029
+Mouse Moved to: 1504, 1032
+Mouse Moved to: 1504, 1034
+Mouse Moved to: 1504, 1039
+Mouse Moved to: 1504, 1042
+Mouse Moved to: 1504, 1045
+Mouse Moved to: 1504, 1046
+Mouse Moved to: 1504, 1048
+Mouse Moved to: 1504, 1049
+Mouse Moved to: 1504, 1051
+Mouse Moved to: 1504, 1052
+Mouse Pressed
+Mouse Released
+Mouse Moved to: 1503, 1052
+Mouse Moved to: 1500, 1050
+Mouse Moved to: 1488, 1028
+Mouse Moved to: 1453, 976
+Mouse Moved to: 1394, 893
+Mouse Moved to: 1332, 823
+Mouse Moved to: 1291, 778
+Mouse Moved to: 1255, 748
+Mouse Moved to: 1226, 729
+Mouse Moved to: 1196, 715
+Mouse Moved to: 1165, 704
+Mouse Moved to: 1125, 691
+Mouse Moved to: 1095, 683
+Mouse Moved to: 1037, 661
+Mouse Moved to: 1016, 653
+Mouse Moved to: 1001, 648
+Mouse Moved to: 993, 644
+Mouse Moved to: 985, 642
+Mouse Moved to: 982, 641
+Mouse Moved to: 980, 641
+Mouse Moved to: 979, 641
+Pressed: Ctrl
+Pressed: C

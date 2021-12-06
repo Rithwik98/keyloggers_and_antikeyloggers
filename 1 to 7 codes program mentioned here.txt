@@ -1,0 +1,158 @@
+
+======================================================
+from pynput import keyboard
+
+# The event listener will be running in this block
+with keyboard.Events() as events:
+    for event in events:
+        if event.key == keyboard.Key.ctrl_l:
+            break
+        else:
+            print('Received event {}'.format(event))
+
+======================================================
+
+from pynput import keyboard
+
+# The event listener will be running in this block
+with keyboard.Events() as events:
+    # Block at most one second
+    event = events.get(3.0)
+    if event is None:
+        print('You did not press a key within five second')
+    else:
+        print('Received event {}'.format(event))
+
+====================================================
+from pynput import keyboard
+#hotkey activator detection code
+def on_activate():
+    print('Global hotkey activated!')
+
+def for_canonical(f):
+    return lambda k: f(l.canonical(k))
+hotkey = keyboard.HotKey(
+    keyboard.HotKey.parse('<ctrl>+<alt>+a'),on_activate)
+
+with keyboard.Listener(
+        on_press=for_canonical(hotkey.press),
+        on_release=for_canonical(hotkey.release)) as l:
+    l.join()
+
+==============================================================
+#alternative code for hotkey detector
+
+from pynput import keyboard
+
+def on_activate_h():
+    print('<ctrl>+h pressed')
+
+def on_activate_i():
+    print('<ctrl>+i pressed')
+
+with keyboard.GlobalHotKeys({
+        '<ctrl>+h': on_activate_h,
+        '<ctrl>+i': on_activate_i}) as h:
+    h.join()
+=============================================================
+#event listener
+
+from pynput import keyboard
+
+def on_press(key):
+    try:
+        print('alphanumeric key {0} pressed'.format(key.char))
+    except AttributeError:
+        print('special key {0} pressed'.format(
+            key))
+
+def on_release(key):
+    print('{0} released'.format(
+        key))
+    if key == keyboard.Key.esc:
+        # Stop listener
+        return False
+
+# Collect events until released
+with keyboard.Listener(
+        on_press=on_press,
+        on_release=on_release) as listener:
+    listener.join()
+
+# ...or, in a non-blocking fashion:
+listener = keyboard.Listener(
+    on_press=on_press,
+    on_release=on_release)
+listener.start()
+
+
+=========================================================
+#event listner
+
+import pynput
+from pynput.keyboard import Key, Listener
+
+count = 0
+keys = []
+
+def on_press(key):
+    global keys, count
+
+    keys.appendd(key)
+    count +=1
+    print("{0} pressed".format(key))
+
+    if count >= 10 :
+        count = 0
+        write_file(keys)
+        keys = []
+def write_file(keys):
+    with open("log.txt","a") as f:
+        for key in keys:
+            k = str(key).replace("'","")
+            if k.find("space")>0:
+                f.write('\n')
+            elif k.find("Key") == -1:
+                f.write(k)
+
+def on_release(key):
+    if key == Key.esc:
+        return False
+=============================================================
+#mouse listener
+
+from pynput import mouse
+
+def on_move(x, y):
+    print('Pointer moved to {0}'.format((x, y)))
+
+def on_click(x, y, button, pressed):
+    print('{0} at {1}'.format('Pressed' if pressed else 'Released', (x, y)))
+    if not pressed:
+        # Stop listener
+        return False
+
+def on_scroll(x, y, dx, dy):
+    print('Scrolled {0} at {1}'.format(
+        'down' if dy < 0 else 'up',
+        (x, y)))
+
+# Collect events until released
+with mouse.Listener(
+        on_move=on_move,
+        on_click=on_click,
+        on_scroll=on_scroll) as listener:
+    listener.join()
+
+# ...or, in a non-blocking fashion:
+listener = mouse.Listener(
+    on_move=on_move,
+    on_click=on_click,
+    on_scroll=on_scroll)
+listener.start()
+
+====================================================================
+
+
+
+
